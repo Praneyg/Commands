@@ -6,4 +6,4 @@ C++ commands fpr g++
 
 2. To run an executable c++
 	./<executable_name>
-	Note: Executable name is same as <outputfile> from1.
+	Note: Executable name is same as <outputfile> from.
